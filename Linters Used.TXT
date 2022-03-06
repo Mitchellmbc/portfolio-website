@@ -1,4 +1,0 @@
-linter 3.4.0
-linter-stylelint 4.5.1
-linter-ui-default 3.4.1
-w3c-validation
