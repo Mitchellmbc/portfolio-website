@@ -177,6 +177,9 @@ button:focus,
       -ms-flex-direction: column;
           flex-direction: column;
   text-align: center;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
 }
 
 
